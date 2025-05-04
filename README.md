@@ -4,7 +4,7 @@
 
 <br>
 
-<p align="left">Hi! My name is Felipe, and I'm a Computer Engineering student, enthusiastic about backend development. I am currently improving my skills in application development. My focus is on building robust, scalable, and efficient solutions.</p>
+<p align="left">Hi! My name is Felipe, and I'm a Software Engineering student, enthusiastic about backend development. I am currently improving my skills in application development. My focus is on building robust, scalable, and efficient solutions.</p>
 
 ###
 
